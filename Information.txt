@@ -1,9 +1,0 @@
-This repository contains data and tests done in the chatbot app. The main chatbot consists of the following steps.
-It has 4 components:
-Actions, components, models and tests.
-1. Start RASA server by the command: rasa-x
-2. After it opens, we can see the model in the RASA localhost website
-3. Click on rasa-train at the bottom of the options in the RASA navigation
-4. After the model is trained, click on talk to your not to get it started!!
-That's it!! The model is live. The required questions can be asked by referring to the intents section.
-The photos at the start is the sample output obtained from running the chatbot. it is for reference.
